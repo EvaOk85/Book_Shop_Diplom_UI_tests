@@ -1,0 +1,4 @@
+{'level': 'SEVERE', 'message': "https://www.dom-knigi.ru/bitrix/js/main/core/core.min.js?1633196384260970 0:179109 Uncaught TypeError: Cannot read properties of undefined (reading 'prototype')", 'source': 'javascript', 'timestamp': 1689591794577}
+{'level': 'SEVERE', 'message': 'javascript 3:66 Uncaught ReferenceError: JCCatalogItem is not defined', 'source': 'javascript', 'timestamp': 1689591794600}
+{'level': 'SEVERE', 'message': 'javascript 3:66 Uncaught ReferenceError: JCCatalogItem is not defined', 'source': 'javascript', 'timestamp': 1689591794607}
+{'level': 'SEVERE', 'message': 'javascript 3:64 Uncaught ReferenceError: JCCatalogItem is not defined', 'source': 'javascript', 'timestamp': 1689591794614}
