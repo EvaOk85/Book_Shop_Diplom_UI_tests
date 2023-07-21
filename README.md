@@ -1,9 +1,10 @@
 # Проект по тестированию сайта dom-knigi.ru
-> <a target="_blank" href="https://www.dom-knigi.ru//">Ссылка на сайт</a>
+> <a target="_blank" href="https://www.dom-knigi.ru/">Ссылка на сайт</a>
 
-![This is an image](/images/screenshot/dom knigi.png)
+![This is an image](images/screenshot/dom.png)
 
 <!-- Технологии -->
+### Проект реализован с использованием:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo/python.png"></code>
@@ -59,7 +60,7 @@
 ### [Dashboard](https://allure.autotests.cloud/project/3519/dashboards)
 
 ##### Так же вся отчетность сохраняется в Allure TestOps, где строятся аналогичные графики.
-![This is an image](images/screenshot/allure testops.png)
+![This is an image](images/screenshot/alluretestops.png)
 
 #### Во вкладке со сьютами, мы можем:
 - Управлять всеми тест-кейсами или с каждым отдельно
@@ -67,7 +68,7 @@
 - Настроить интеграцию с Jira
 - Добавлять ручные тесты и т.д
 
-![This is an image](images/screenshot/allure testops1.png)
+![This is an image](images/screenshot/alluretestops1.png)
 
 
 <!-- Jira -->
