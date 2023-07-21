@@ -41,12 +41,12 @@
 ## Локальный запуск автотестов
 Пример командной строки:
 ```bash
-gradle clean ui_tests -Dlogin=user1 -Dpassword=1234 -DtestUrl=selenoid.autotests.cloud/wd/hub/
+pytest .
 ```
 
 Получение отчёта:
 ```bash
-allure serve build/allure-results
+allure.bat serve
 ```
 <!-- Allure TestOps -->
 
