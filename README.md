@@ -4,6 +4,7 @@
 ![This is an image](images/screenshot/dom.png)
 
 <!-- Технологии -->
+### Проект реализован с использованием:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo/python.png"></code>
