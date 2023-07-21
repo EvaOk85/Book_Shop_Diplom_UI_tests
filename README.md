@@ -30,7 +30,7 @@
 ### [Job](https://jenkins.autotests.cloud/job/Okuneva_autotest_book_shop_ui_tests/)
 
 ##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение, через виртуальную машину в Selenide.
-![This is an image](images/screenshot/job.png)
+![This is an image](images/screenshot/job.PNG)
 
 <!-- Allure report -->
 
