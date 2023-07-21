@@ -1,4 +1,7 @@
-## Проект UI автотестов dom-knigi.ru
+# Проект по тестированию сайта dom-knigi.ru
+> <a target="_blank" href="https://www.dom-knigi.ru//">Ссылка на сайт</a>
+
+![This is an image](/images/screenshot/dom knigi.png)
 
 <!-- Технологии -->
 <p  align="center">
