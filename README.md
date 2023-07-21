@@ -60,7 +60,7 @@
 ### [Dashboard](https://allure.autotests.cloud/project/3519/dashboards)
 
 ##### Так же вся отчетность сохраняется в Allure TestOps, где строятся аналогичные графики.
-![This is an image](images/screenshot/allure testops.png)
+![This is an image](images/screenshot/alluretestops.png)
 
 #### Во вкладке со сьютами, мы можем:
 - Управлять всеми тест-кейсами или с каждым отдельно
@@ -68,7 +68,7 @@
 - Настроить интеграцию с Jira
 - Добавлять ручные тесты и т.д
 
-![This is an image](images/screenshot/allure testops1.png)
+![This is an image](images/screenshot/alluretestops1.png)
 
 
 <!-- Jira -->
