@@ -38,6 +38,18 @@
 ![This is an image](images/screenshot/job.png)
 
 <!-- Allure report -->
+## Локальный запуск автотестов
+Пример командной строки:
+```bash
+gradle clean ui_tests -Dlogin=user1 -Dpassword=1234 -DtestUrl=selenoid.autotests.cloud/wd/hub/
+```
+
+Получение отчёта:
+```bash
+allure serve build/allure-results
+```
+<!-- Allure TestOps -->
+
 
 ### <img width="5%" title="Allure Report" src="images/logo/allure_report.png"> Allure report
 ### [Report](https://jenkins.autotests.cloud/job/Okuneva_autotest_book_shop_ui_tests/12/allure/)
